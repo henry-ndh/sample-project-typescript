@@ -60,7 +60,7 @@ export default function ShopPage() {
         <div className="mt-[5%] flex w-full justify-center ">
           <Link to="/shop">
             {' '}
-            <Button className="bg-yellow text-black">Xem thêm</Button>
+            <Button className="bg-yellow text-black">Xem thêm 2</Button>
           </Link>
         </div>
         <Footer />
